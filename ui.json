@@ -1,3 +1,4 @@
 {
-		"adminportal": "http://%%IP%%:8081/"
+	"adminportal": "http://%%IP%%:8081/",
+	"docurl": "https://github.com/sickchill/sickchill/blob/master/README.md"
 }
